@@ -29,3 +29,11 @@ p{
 .media-container{
     margin: 0 auto;
 }
+
+#image2{
+    margin-top: 1rem;
+}
+
+footer{
+    text-align: right;
+}
